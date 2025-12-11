@@ -1,5 +1,4 @@
 openai
 supabase
-python-supabase
 tqdm
 requests
