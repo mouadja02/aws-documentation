@@ -1,8 +1,0 @@
-{
-  "name": "nodejs-apig",
-  "version": "1.0.0",
-  "private": true,
-  "devDependencies": {
-    "aws-sdk": "2.631.0"
-  }
-}

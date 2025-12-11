@@ -1,3 +1,0 @@
-{
-   "nginx_config_template" : "/opt/elasticbeanstalk/support/conf/rate-limit.erb"
-}
